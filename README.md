@@ -24,7 +24,7 @@
     }
 
   dependencies {
-		implementation 'com.github.gyadministrator:CarReadNo:1.0'
+		implementation 'com.github.gyadministrator:ReadCarNo:1.0'
 	}
 
  activity中使用
