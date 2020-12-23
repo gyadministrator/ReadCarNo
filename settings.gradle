@@ -1,0 +1,2 @@
+include ':app', ':libEasyPR'
+rootProject.name = "ReadCarNo"
